@@ -212,7 +212,7 @@ QUICK ACCESS
 }
 
 .quickaccessmenu_Menu_1gJzx::before {
-  height: 0;
+  height: 0 !important;
 }
 
 /*
