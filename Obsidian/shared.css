@@ -211,6 +211,10 @@ QUICK ACCESS
   background-color: var(--obsidian-main-color);
 }
 
+.quickaccessmenu_Menu_1gJzx::before {
+  height: 0;
+}
+
 /*
 OTHER
 */
